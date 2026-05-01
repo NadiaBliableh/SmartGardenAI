@@ -22,8 +22,8 @@ Python · Tkinter · Pure stdlib only (no numpy, pandas, or sklearn)
 2. Place `Data.xlsx` in the project folder
 3. Run: python plant_watering_scheduler.py
 
-```
 ## Project Structure
+```
 plant_project/
 ├── plant_watering_scheduler.py   # main application
 ├── Data.xlsx                     # training data
